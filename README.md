@@ -32,19 +32,20 @@ Estos [modelos](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/t
 ### Modelo Lógico-Relacional <a name="id2"></a>
 Estos [modelos](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/tree/main/Modelo%20L%C3%B3gico-Relacional) permiten que el conjunto de una o más tablas estén estructuradas en registros y campos, que se vinculan entre sí por un campo en común, en ambos casos posee las mismas características como por ejemplo el nombre de campo, tipo y longitud; a este campo generalmente se le denomina identificador o clave primaria.
 
-<br>
-
 - **Viveros**
 
 	 - ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros.png)
 
 	 - ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros_sql.png)
 
+<br>
+
 - **Catastro**	
 
 	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/catastro.png)
 	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/catastro_sql.png)
 
+<br>
 
 - **BBDD SQL**
 
