@@ -55,7 +55,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Vivienda Unifamiliar` (
   `Localidad` VARCHAR(60) NOT NULL,
   `Número de habitaciones` INT NOT NULL,
   PRIMARY KEY (`Número`, `Calle`),
-  CONSTRAINT `Localidad`
+  CONSTRAINT `Localida`
     FOREIGN KEY (`Localidad`)
     REFERENCES `mydb`.`Zona` (`Localidad`)
     ON DELETE NO ACTION
