@@ -24,30 +24,31 @@ ___
 Estos [modelos](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/tree/main/Modelo%20Entidad-Relaci%C3%B3n) facilitan la representación de entidades de una base de datos como es la de viveros y la de catastro.
 
 - **Viveros**
-	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20Entidad-Relaci%C3%B3n/Viveros.png)
+	 ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20Entidad-Relaci%C3%B3n/Viveros.png)
 
 - **Catastro**
-	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20Entidad-Relaci%C3%B3n/Catastro.png)
+	 ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20Entidad-Relaci%C3%B3n/Catastro.png)
 
 ### Modelo Lógico-Relacional <a name="id2"></a>
 Estos [modelos](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/tree/main/Modelo%20L%C3%B3gico-Relacional) permiten que el conjunto de una o más tablas estén estructuradas en registros y campos, que se vinculan entre sí por un campo en común, en ambos casos posee las mismas características como por ejemplo el nombre de campo, tipo y longitud; a este campo generalmente se le denomina identificador o clave primaria.
 
-<br><br>
+<br>
 
 - **Viveros**
-	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros.png)
-	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros_sql.png)
 
-<br><br>
+	 - ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros.png)
+
+	 - ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/viveros_sql.png)
 
 - **Catastro**	
+
 	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/catastro.png)
 	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/catastro_sql.png)
 
-<br><br>
 
 - **BBDD SQL**
-	- ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/database_sql.png)
+
+	 - ![Imagen](https://github.com/alu0101116013/ADBD-Modelo_Logico_Relacional/blob/main/Modelo%20L%C3%B3gico-Relacional/database_sql.png)
 
 
 ___
